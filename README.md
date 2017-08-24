@@ -1,2 +1,2 @@
 # FYS3150
-Homework folder
+Homework folder for computational physics at UiO.
